@@ -12,15 +12,22 @@
 
 
 ```
-Example: This study aims to recruit 30 participants, who will be categorized into three groups based on their familiarity with semantic web technologies, as reported in the pre-questionnaire.
+Example: This study aims to recruit 30 participants, who will be categorized into three groups based 
+on their familiarity with semantic web technologies, as reported in the pre-questionnaire.
 
 Group 1: Semantic Web practitioners experienced with RML
 Group 2: Semantic Web practitioners inexperienced with RML
 Group 3: Computer science background with no Semantic Web experience
 
-Participants will be recruited via email, primarily from the lead researcher's research group.  Additional participants may be recruited to ensure a balanced representation across the three groups. All participants must be 18 years of age or older.
+Participants will be recruited via email, primarily from the lead researcher's research group. 
+Additional participants may be recruited to ensure a balanced representation across the three groups. 
+All participants must be 18 years of age or older.
 
-We recruit primarily from the lead researcher's research group, which may limit the diversity of participants and their experiences, potentially impacting the generalizability of the findings (i.e., sampling bias). We also rely on volunteers. Participants who volunteer for the study may possess specific characteristics (e.g., a greater interest in the topic) that differentiate them from the broader population (i.e., self-selection bias).
+We recruit primarily from the lead researcher's research group, which may limit the diversity of 
+participants and their experiences, potentially impacting the generalizability of the findings 
+(i.e., sampling bias). We also rely on volunteers. Participants who volunteer for the study may 
+possess specific characteristics (e.g., a greater interest in the topic) that differentiate them 
+from the broader population (i.e., self-selection bias).
 ```
 
 ## Hypotheses
@@ -79,7 +86,8 @@ Each participant will undergo the following steps in the study:
 > To be provided.
 
 ```
-Example: The lead researcher will answer all participant questions about the rationale for the study, methods of analysis, etc., at any point throughout or after this study.
+Example: The lead researcher will answer all participant questions about the rationale 
+for the study, methods of analysis, etc., at any point throughout or after this study.
 ```
 
 # Method Analysis
@@ -88,7 +96,9 @@ Example: The lead researcher will answer all participant questions about the rat
 > To be provided.
 
 ```
-Example: All data will be collected with participant consent. If a participant wishes to end their participation at any point during this study, their data will be immediately deleted. All participant responses will be anonymized.
+Example: All data will be collected with participant consent. If a participant wishes 
+to end their participation at any point during this study, their data will be immediately 
+deleted. All participant responses will be anonymized.
 ```
 
 # Relevant legislation
