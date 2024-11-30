@@ -2,7 +2,7 @@
 
 For each statement, rate your level of disagreement or agreement (from 1 to 7), or indicate that this statement does not apply. You may choose to provide comments on each statement.
 
-| | | Strongly disagree | | | | | |  Strongly Agree | N/A |
+| | | Strongly disagree | | | | | |  Strongly agree | N/A |
 | - | - | :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |
 | 1 | Overall, I am satisfied with how easy it is to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
 | 2 | It was simple to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
