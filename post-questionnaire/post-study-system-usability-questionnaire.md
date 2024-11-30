@@ -1,26 +1,25 @@
 # Post-Study System Usability Questionnaire (Lewis, 1995)
 
-For each statement, rate your level of agreement or disagreement or indicate that this statement does not apply. You may choose to provide comments on each statement.
+For each statement, rate your level of disagreement or agreement (from 1 to 7), or indicate that this statement does not apply. You may choose to provide comments on each statement.
 
-
-| | | Strongly disagree <br/> 1 | 2 | 3 | 4 | 5 | 6 |  Strongly Agree <br/> 7 | N/A |
-| - | - | :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |
-| 1 | Overall, I am satisfied with how easy it is to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 2 | It was simple to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 3 | I was able to complete the tasks and scenarios quickly using this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 4 | I felt comfortable using this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 5 | It was easy to learn to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 6 | I believe I could become productive quickly using this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 7 | The system gave error messages that clearly told me how to fix problems. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 8 | Whenever I made a mistake using the system, I could recover easily and quickly. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 9 | The information (such as online help, on-screen messages, and other documentation) provided with this system was clear. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 10 | It was easy to find the information I needed. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 11 | The information was effective in helping me complete the tasks and scenarios. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 12 | The organization of information on the system screens was clear. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 13 | The interface of this system was pleasant. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 14 | I liked using the interface of this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 15 | This system has all the functions and capabilities I expect it to have. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
-| 16 | Overall, I am satisfied with this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | | | | | | | | |
+| | | Strongly disagree | | | | | |  Strongly Agree | N/A |
+| - | - | :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |
+| 1 | Overall, I am satisfied with how easy it is to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 2 | It was simple to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 3 | I was able to complete the tasks and scenarios quickly using this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 4 | I felt comfortable using this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 5 | It was easy to learn to use this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 6 | I believe I could become productive quickly using this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 7 | The system gave error messages that clearly told me how to fix problems. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 8 | Whenever I made a mistake using the system, I could recover easily and quickly. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 9 | The information (such as online help, on-screen messages, and other documentation) provided with this system was clear. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 10 | It was easy to find the information I needed. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 11 | The information was effective in helping me complete the tasks and scenarios. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 12 | The organization of information on the system screens was clear. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 13 | The interface of this system was pleasant. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 14 | I liked using the interface of this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 15 | This system has all the functions and capabilities I expect it to have. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
+| 16 | Overall, I am satisfied with this system. <br/>*Comments:* <br/><br/><br/><br/><br/><br/> | 1 | 2 | 3 | 4 | 5 | 6 | 7 | N/A |
 
 ## References
 Lewis, J.R. IBM Computer Usability Satisfaction Questionnaires: Psychometric Evaluation and Instructions for Use. International Journal of Human-Computer Interaction, 7(1), 57-78 (1995).
