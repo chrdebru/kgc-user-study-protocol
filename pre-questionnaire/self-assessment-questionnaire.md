@@ -17,7 +17,7 @@ Which of the following best describes you?
 For each statement, rate your level of agreement or disagreement.
 
 | | Strongly <br/> disagree <br/> 1 | 2 | 3 | 4 | 5 | 6 | Strongly <br/> Agree<br/>7 |
-| -- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | I find the topic of the Semantic Web, knowledge graphs, … fascinating | | | | | | | |
 | I am eager to learn more about the Semantic Web, knowledge graphs, … | | | | | | | |
 | I need to be knowledgeable in the Semantic Web, knowledge graphs, … | | | | | | | |
