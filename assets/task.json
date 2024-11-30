@@ -1,0 +1,44 @@
+[
+  {
+    "task_id": 1,
+    "description-en": "Design Mockups",
+    "description-fr": "Concevoir des maquettes",
+    "project_id": 1,
+    "employee_id": 1
+  },
+  {
+    "task_id": 2,
+    "description-en": "Develop Frontend",
+    "description-fr": "Développer le frontend",
+    "project_id": 1,
+    "employee_id": 2
+  },
+  {
+    "task_id": 3,
+    "description-en": "Develop Backend",
+    "description-fr": "Développer le backend",
+    "project_id": 1,
+    "employee_id": 3
+  },
+  {
+    "task_id": 4,
+    "description-en": "Design App Flow",
+    "description-fr": "Concevoir le flux de l'application",
+    "project_id": 2,
+    "employee_id": 2
+  },
+  {
+    "task_id": 5,
+    "description-en": "Develop iOS App",
+    "description-fr": "Développer l'application iOS",
+    "project_id": 2,
+    "employee_id": 3
+  },
+  {
+    "task_id": 6,
+    "description-en": "Develop Android App",
+    "description-fr": "Développer l'application Android",
+    "project_id": 2,
+    "employee_id": 3
+  }
+]

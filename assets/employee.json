@@ -1,0 +1,17 @@
+[
+    {
+      "employee_id": 1,
+      "first_name": "John",
+      "last_name": "Smith"
+    },
+    {
+      "employee_id": 2,
+      "first_name": "Jane",
+      "last_name": "Doe"
+    },
+    {
+      "employee_id": 3,
+      "first_name": "David",
+      "last_name": "Lee"
+    }
+  ]

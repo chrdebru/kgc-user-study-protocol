@@ -1,0 +1,7 @@
+task_id,description_en,description_fr,project_id,employee_id
+1,Design Mockups,Concevoir des maquettes,1,1
+2,Develop Frontend,Développer le frontend,1,2
+3,Develop Backend,Développer le backend,1,3
+4,Design App Flow,Concevoir le flux de l'application,2,2
+5,Develop iOS App,Développer l'application iOS,2,3
+6,Develop Android App,Développer l'application Android,2,3
