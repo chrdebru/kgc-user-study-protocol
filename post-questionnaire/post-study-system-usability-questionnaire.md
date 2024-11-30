@@ -3,40 +3,24 @@
 For each statement, rate your level of agreement or disagreement or indicate that this statement does not apply. You may choose to provide comments on each statement.
 
 
-| | | Strongly <br/> disagree br/> 1 | 2 | 3 | 4 | 5 | 6 |  Strongly <br/> Agree <br/> 7 | N/A |
-| - | - | :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |
-| 1 | Overall, I am satisfied with how easy it is to use this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 2 | It was simple to use this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 3 | I was able to complete the tasks and scenarios quickly using this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 4 | I felt comfortable using this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 5 | It was easy to learn to use this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 6 | I believe I could become productive quickly using this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 7 | The system gave error messages that clearly told me how to fix problems. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 8 | Whenever I made a mistake using the system, I could recover easily and quickly. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 9 | The information (such as online help, on-screen messages, and other documentation) provided with this system was clear. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 10 | It was easy to find the information I needed. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 11 | The information was effective in helping me complete the tasks and scenarios. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 12 | The organization of information on the system screens was clear. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 13 | The interface of this system was pleasant. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 14 | I liked using the interface of this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 15 | This system has all the functions and capabilities I expect it to have. | | | | | | | | |
-| <td colspan="9">Comments:</td>
-| 16 | Overall, I am satisfied with this system. | | | | | | | | |
-| <td colspan="9">Comments:</td>
+| | | Strongly disagree | 1 | 2 | 3 | 4 | 5 | 6 |  & | Strongly Agree | N/A |
+| - | - | :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |  :-: |
+| 1 | Overall, I am satisfied with how easy it is to use this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 2 | It was simple to use this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 3 | I was able to complete the tasks and scenarios quickly using this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 4 | I felt comfortable using this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 5 | It was easy to learn to use this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 6 | I believe I could become productive quickly using this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 7 | The system gave error messages that clearly told me how to fix problems. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 8 | Whenever I made a mistake using the system, I could recover easily and quickly. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 9 | The information (such as online help, on-screen messages, and other documentation) provided with this system was clear. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 10 | It was easy to find the information I needed. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 11 | The information was effective in helping me complete the tasks and scenarios. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 12 | The organization of information on the system screens was clear. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 13 | The interface of this system was pleasant. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 14 | I liked using the interface of this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 15 | This system has all the functions and capabilities I expect it to have. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
+| 16 | Overall, I am satisfied with this system. <br/><u>Comments:</u> <br/><br/><br/> | | | | | | | | |
 
 ## References
 Lewis, J.R. IBM Computer Usability Satisfaction Questionnaires: Psychometric Evaluation and Instructions for Use. International Journal of Human-Computer Interaction, 7(1), 57-78 (1995).
