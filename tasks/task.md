@@ -26,9 +26,9 @@ The following snippet informs the mapping processor which files to transform. Yo
 .
 
 <#LS3>
-    rml:referenceFormulation rml:XPath ;
-    rml:iterator "/tasks/task" ;
-    rml:source [ a rml:RelativePathSource ; rml:path "task.xml" ; ]
+    rml:referenceFormulation rml:JSONPath ;
+    rml:iterator "$.*" ;
+    rml:source [ a rml:RelativePathSource ; rml:path "task.json" ; ] 
 .
 ```
 
